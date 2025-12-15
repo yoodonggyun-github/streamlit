@@ -1,2 +1,9 @@
 matplotlib
 plotly
+streamlit
+pandas
+wordcloud
+seaborn
+altair
+konlpy
+seaborn
