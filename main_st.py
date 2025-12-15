@@ -107,7 +107,7 @@ with open('./불용어.txt', 'r', encoding='utf-8') as f:
 
 text = ' '.join(df['description'].dropna().tolist())
 
-han_font_path = './MALGUNSL.ttf'
+han_font_path = './malgun.ttf'
 
 import matplotlib.pyplot as plt
 
